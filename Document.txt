@@ -1,0 +1,23 @@
+Project 1: String Manipulation and Information Operations
+Project Overview
+This project will evaluate participants' understanding of string manipulation and string information methods in Java. The participant will demonstrate their knowledge by declaring string variables and performing various string manipulation and information operations.
+
+Assessment Tasks
+Declare String Variables:
+
+1. Declare two string variables that will be used for string operations.
+Perform String Manipulation Operations:
+
+2. Apply various string manipulation methods: substring(), concat(), replace(), toUpperCase(), toLowerCase().
+Examples:
+Extract a substring from a string.
+Concatenate two strings.
+Replace a part of a string.
+Convert a string to uppercase and lowercase.
+Perform String Information Operations:
+
+3. Use string information methods: length(), charAt(), indexOf(), isEmpty(), startsWith(), endsWith().
+Examples:
+Find the length of a string.
+Extract a character at a given index.
+Check if a string is empty, or if it starts or ends with a certain substring.
